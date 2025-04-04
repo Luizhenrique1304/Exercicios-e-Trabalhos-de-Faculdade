@@ -1,0 +1,19 @@
+body {
+    background-color: beige;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+header {
+    background: blue;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-size: large;
+}
+section {
+    background-color: whitesmoke;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
